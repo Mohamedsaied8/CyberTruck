@@ -1,0 +1,6 @@
+../Core/Src/can.c:19:6:canInit	16	static
+../Core/Src/can.c:58:6:CAN_wrMsg	24	static
+../Core/Src/can.c:95:6:canTransmit	32	static
+../Core/Src/can.c:105:6:CAN_wrFilter	32	static
+../Core/Src/can.c:142:6:filtersInit	16	static
+../Core/Src/can.c:152:6:canRead	24	static

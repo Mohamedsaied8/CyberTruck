@@ -1,0 +1,4 @@
+../Core/Src/extint.c:10:6:EXTInterruptPinEnable	1
+../Core/Src/extint.c:23:6:EXTInterruptEnable	6
+../Core/Src/extint.c:44:6:EXTInterruptDisable	6
+../Core/Src/extint.c:66:6:resetExternalInterrupt	1

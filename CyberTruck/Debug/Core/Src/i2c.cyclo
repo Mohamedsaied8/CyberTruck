@@ -1,0 +1,8 @@
+../Core/Src/i2c.c:14:6:I2CInit	4
+../Core/Src/i2c.c:43:6:I2CErrorInterrupt	3
+../Core/Src/i2c.c:58:6:I2CEventInterrupt	2
+../Core/Src/i2c.c:73:5:I2C_Start	3
+../Core/Src/i2c.c:86:5:I2C_Stop	3
+../Core/Src/i2c.c:99:6:I2C_Write	3
+../Core/Src/i2c.c:112:5:I2C_Addr	3
+../Core/Src/i2c.c:126:6:I2C_Read	4

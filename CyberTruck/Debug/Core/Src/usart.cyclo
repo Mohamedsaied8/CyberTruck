@@ -1,0 +1,14 @@
+../Core/Src/usart.c:54:6:usartInit	10
+../Core/Src/usart.c:126:6:sendChar	2
+../Core/Src/usart.c:138:15:GetChar	2
+../Core/Src/usart.c:148:6:GetString	3
+../Core/Src/usart.c:158:16:RecvString	4
+../Core/Src/usart.c:181:6:Send_String	2
+../Core/Src/usart.c:196:6:dma_write_usart1	1
+../Core/Src/usart.c:226:6:dma_read_usart1	1
+../Core/Src/usart.c:257:6:dma_write_usart2	1
+../Core/Src/usart.c:287:6:dma_read_usart2	1
+../Core/Src/usart.c:318:6:dma_write_usart3	1
+../Core/Src/usart.c:348:6:dma_read_usart3	1
+../Core/Src/usart.c:380:6:dma_write_usart4	1
+../Core/Src/usart.c:410:6:dma_read_usart4	1

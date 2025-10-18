@@ -1,0 +1,10 @@
+../Core/Src/timer.c:14:6:timerInit	5
+../Core/Src/timer.c:41:6:advancedTimerInit	5
+../Core/Src/timer.c:69:6:initTimerIC	3
+../Core/Src/timer.c:95:6:initTimerOC	6
+../Core/Src/timer.c:128:6:initTimerOC4CH	1
+../Core/Src/timer.c:151:14:readCapture	6
+../Core/Src/timer.c:176:6:enableTimerInterrupt	7
+../Core/Src/timer.c:194:6:disableTimerInterrupt	6
+../Core/Src/timer.c:211:6:millisInit	1
+../Core/Src/timer.c:230:15:millis	1

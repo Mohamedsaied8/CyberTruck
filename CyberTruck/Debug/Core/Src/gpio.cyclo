@@ -1,0 +1,8 @@
+../Core/Src/gpio.c:26:6:portInit	7
+../Core/Src/gpio.c:57:6:portInitAlt	7
+../Core/Src/gpio.c:94:6:portWrite	1
+../Core/Src/gpio.c:98:6:pinSet	1
+../Core/Src/gpio.c:102:6:pinReset	1
+../Core/Src/gpio.c:119:10:portRead	1
+../Core/Src/gpio.c:123:10:pinRead	1
+../Core/Src/gpio.c:134:6:Set_clock	6
